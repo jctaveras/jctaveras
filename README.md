@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm curretly working at [Intellisys D-Crop.](https://intellisysdcorp.com/) as Senior Software Engineer helping companies from around the world developing new and exciting features across multiple platforms and most importantly, maintaining those features and services running and improving their current behavior.
+- I recently joing the most energized community, [X-Team](https://x-team.com) to work with them as Senior Software Engineer to help companies from around the world to develop new and exciting features across multiple platforms and most importantly, maintaining those features and services running and improving their current behavior.
 
 - I'm currently working designing solutions using the [Microservices Architecture](https://microservices.io/) as well a challenging myself to use a programing language that I usually don't see at work like Go Lang. Developing in Go has been an unforgettable experience and I'm looking forward to collaborating on projects using Go as their main programming language.
 
