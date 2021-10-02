@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - I'm currently working designing solutions using the [Microservices Architecture](https://microservices.io/) as well a challenging myself to use a programing language that I usually don't see at work like Go Lang. Developing in Go has been an unforgettable experience and I'm looking forward to collaborating on projects using Go as their main programming language.
 
-- I can speak fluent English and it wasn't that long ago that I decided to take an English Certificate test where I earned the [C2 Proficiency Qualification](https://www.cambridgeenglish.org/exams-and-tests/proficiency/), native Spanish speaker and I'm on my to add Japanese to my repertoire.
+- I can speak fluent English and it wasn't that long ago that I decided to take an English Certificate test where I earned the [C2 Proficiency Qualification](https://www.cambridgeenglish.org/exams-and-tests/proficiency/), native Spanish speaker and I'm on my way to add Japanese to my repertoire.
 
 - I love open source projects and that's why I decided to develop my on [GitHub Action](https://github.com/jctaveras/heroku-deploy) which motivated me to write my [first Dev Post](https://dev.to/jctaveras/the-power-of-automation-with-github-action-244o)
 
