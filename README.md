@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I recently joined the most energized community, [X-Team](https://x-team.com) to work with them as Senior Software Engineer to help companies from around the world to develop new and exciting features across multiple platforms and most importantly, maintaining those features and services running and improving their current behavior.
+Highly experienced Telecommunications and Senior Software Engineer with expertise in GoLang, JavaScript/TypeScript, Python, Docker, CI/CD, AWS, DevOps, and more. Proven track record in designing and maintaining microservices, improving service performance, and managing complex database systems. Adept at leading teams and implementing best practices across multiple industries.
 
-- I'm currently working designing solutions using the [Microservices Architecture](https://microservices.io/) as well a challenging myself to use a programing language that I usually don't see at work like Go Lang. Developing in Go has been an unforgettable experience and I'm looking forward to collaborating on projects using Go as their main programming language.
+## Perks
 
 - I can speak fluent English and it wasn't that long ago that I decided to take an English Certificate test where I earned the [C2 Proficiency Qualification](https://www.cambridgeenglish.org/exams-and-tests/proficiency/), native Spanish speaker and I'm on my way to add Japanese to my repertoire.
 
